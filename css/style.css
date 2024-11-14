@@ -265,12 +265,12 @@ margin-bottom: 40px;
 }
  .footer-img{
     margin: 0 10px;
-    flex: 1;
  }
 
  .footer p{
     font-size: 1.125em;
     line-height: 1.4em;
+    flex: 1;
  }
 
 
